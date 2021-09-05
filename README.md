@@ -1,4 +1,4 @@
-# Stock-Market-Analysis
-•	Implemented GARCH model to observe volatility trends for 13 Stock Indices & compared with 6 rolling indices 
-•	Performed portfolio optimization & obtained min. Risk and max. Sharpe ratio portfolio among 50k combinations
-
+#Stock Market Analysis
+•	Implemented GARCH model to observe volatility trend for 13 Stock Indices and compared it with 6 rolling windows
+•	Performed the portfolio optimization using the modern portfolio theory and obtained the efficient frontier for the data
+•	Obtained the minimum risk and the maximum Sharpe ratio portfolio among 50k combinations using SciPy optimizer
